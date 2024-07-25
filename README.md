@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a React project using Typescript and Next, the focus in this development is build a design system and know how it`s works and how to apply it in futures projects, to doc all this things, I'm using storybook, a great doc tool when we are talking about DS.
 
 ## Getting Started
 
@@ -13,6 +13,14 @@ pnpm dev
 # or
 bun dev
 ```
+
+To run storybook server:
+```bash
+  npm run storybook
+# or
+  yarn storybook
+```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
